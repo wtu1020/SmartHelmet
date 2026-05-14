@@ -1,0 +1,43 @@
+
+Get map.
+61.35% = badge AP 	||	score_threhold=0.25 : F1=0.66 ; Recall=57.10% ; Precision=78.14%
+87.92% = downcloth AP 	||	score_threhold=0.25 : F1=0.71 ; Recall=89.16% ; Precision=58.31%
+86.71% = downsuit AP 	||	score_threhold=0.25 : F1=0.63 ; Recall=88.78% ; Precision=49.10%
+98.02% = fence AP 	||	score_threhold=0.25 : F1=0.95 ; Recall=97.74% ; Precision=92.20%
+39.68% = fhalt AP 	||	score_threhold=0.25 : F1=0.30 ; Recall=42.31% ; Precision=23.40%
+40.90% = glove AP 	||	score_threhold=0.25 : F1=0.37 ; Recall=46.99% ; Precision=30.95%
+1.75% = googles AP 	||	score_threhold=0.25 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+93.37% = hair AP 	||	score_threhold=0.25 : F1=0.51 ; Recall=92.86% ; Precision=35.14%
+87.37% = halt AP 	||	score_threhold=0.25 : F1=0.79 ; Recall=85.04% ; Precision=73.38%
+47.16% = hand AP 	||	score_threhold=0.25 : F1=0.53 ; Recall=43.35% ; Precision=69.03%
+34.60% = inear AP 	||	score_threhold=0.25 : F1=0.42 ; Recall=35.11% ; Precision=51.52%
+89.26% = intosign AP 	||	score_threhold=0.25 : F1=0.83 ; Recall=85.48% ; Precision=80.55%
+70.54% = longglove AP 	||	score_threhold=0.25 : F1=0.55 ; Recall=78.10% ; Precision=43.00%
+56.44% = meshfence AP 	||	score_threhold=0.25 : F1=0.57 ; Recall=97.81% ; Precision=40.41%
+46.19% = noear AP 	||	score_threhold=0.25 : F1=0.44 ; Recall=50.99% ; Precision=39.16%
+65.86% = operatingbar AP 	||	score_threhold=0.25 : F1=0.49 ; Recall=77.29% ; Precision=36.12%
+36.28% = outear AP 	||	score_threhold=0.25 : F1=0.46 ; Recall=41.02% ; Precision=53.31%
+91.94% = person AP 	||	score_threhold=0.25 : F1=0.65 ; Recall=93.63% ; Precision=50.05%
+30.12% = redrope AP 	||	score_threhold=0.25 : F1=0.37 ; Recall=25.73% ; Precision=63.77%
+71.17% = safebelt AP 	||	score_threhold=0.25 : F1=0.37 ; Recall=80.73% ; Precision=23.92%
+85.36% = shoe AP 	||	score_threhold=0.25 : F1=0.71 ; Recall=87.79% ; Precision=59.79%
+26.59% = sleeve AP 	||	score_threhold=0.25 : F1=0.33 ; Recall=20.63% ; Precision=86.67%
+62.20% = smoke AP 	||	score_threhold=0.25 : F1=0.55 ; Recall=66.20% ; Precision=46.56%
+64.07% = support AP 	||	score_threhold=0.25 : F1=0.53 ; Recall=72.00% ; Precision=41.38%
+2.40% = testpen AP 	||	score_threhold=0.25 : F1=0.05 ; Recall=2.60% ; Precision=23.08%
+76.16% = testrod AP 	||	score_threhold=0.25 : F1=0.64 ; Recall=79.77% ; Precision=52.98%
+81.08% = unhalt AP 	||	score_threhold=0.25 : F1=0.73 ; Recall=80.31% ; Precision=66.56%
+91.83% = upcloth AP 	||	score_threhold=0.25 : F1=0.69 ; Recall=92.15% ; Precision=55.22%
+91.02% = upsuit AP 	||	score_threhold=0.25 : F1=0.68 ; Recall=91.91% ; Precision=53.96%
+42.40% = wglove AP 	||	score_threhold=0.25 : F1=0.44 ; Recall=46.02% ; Precision=41.82%
+97.75% = whiteglove AP 	||	score_threhold=0.25 : F1=0.88 ; Recall=97.45% ; Precision=80.75%
+79.51% = worksign AP 	||	score_threhold=0.25 : F1=0.70 ; Recall=82.48% ; Precision=60.75%
+54.06% = wrongbottom AP 	||	score_threhold=0.25 : F1=0.44 ; Recall=67.41% ; Precision=32.74%
+8.43% = wronghold AP 	||	score_threhold=0.25 : F1=0.08 ; Recall=75.00% ; Precision=4.41%
+43.31% = wrongsuit AP 	||	score_threhold=0.25 : F1=0.26 ; Recall=86.41% ; Precision=15.59%
+57.35% = wrongtop AP 	||	score_threhold=0.25 : F1=0.40 ; Recall=67.19% ; Precision=28.94%
+73.13% = ydownsuit AP 	||	score_threhold=0.25 : F1=0.55 ; Recall=86.52% ; Precision=40.31%
+88.16% = yupsuit AP 	||	score_threhold=0.25 : F1=0.63 ; Recall=92.22% ; Precision=47.70%
+mAP = 62.14%
+Get map done.
+
