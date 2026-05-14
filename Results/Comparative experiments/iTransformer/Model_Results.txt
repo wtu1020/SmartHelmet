@@ -1,0 +1,26 @@
+=== Best Validation Results ===
+Best Epoch: 30
+Accuracy: 94.66%
+Precision: 94.72%
+Recall: 94.66%
+F1-score: 94.67%
+Loss: 0.1797
+------------------------------
+FLOPs: 3624192.0 (3.62M)
+Params: 409862.0 (0.41M)
+------------------------------
+=== Class-wise Performance (Valid) ===
+stand      | Loss: 0.1354 | Acc: 96.72%
+bow        | Loss: 0.1350 | Acc: 96.51%
+lie        | Loss: 0.0055 | Acc: 99.80%
+walk       | Loss: 0.2996 | Acc: 90.40%
+upstairs   | Loss: 0.3163 | Acc: 89.85%
+downstairs | Loss: 0.1874 | Acc: 94.65%
+
+==============================
+=== Test Set Performance ===
+Test Loss: 0.1853
+Test Accuracy: 94.14%
+Test Precision: 0.9421
+Test Recall: 0.9413
+Test F1: 0.9414

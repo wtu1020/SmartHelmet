@@ -1,0 +1,8 @@
+Best Epoch:37
+Valid Acc:93.22%
+FLOPs:1197360.0(1.20M) | Params:112178.0(0.11M)
+Test Loss:0.2767
+Test Acc:93.68%
+Test Precision:0.9373
+Test Recall:0.9366
+Test F1:0.9367

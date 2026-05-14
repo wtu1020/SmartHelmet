@@ -1,0 +1,18 @@
+=== Best Valid Results ===
+Best Epoch:    36
+Valid Acc:     95.63%
+Valid Precision:0.9577
+Valid Recall:  0.9562
+Valid F1:      0.9565
+Valid Loss:    0.2226
+
+=== Model Complexity ===
+FLOPs: 10695680.0 (10.70M)
+Params: 297606.0 (0.30M)
+
+=== Test Set Performance ===
+Test Loss:     0.2238
+Test Accuracy: 96.13%
+Test Precision:0.9626
+Test Recall:   0.9613
+Test F1:       0.9615
